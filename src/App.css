@@ -3,3 +3,19 @@ main {
   margin: 25px auto;
   width: 50%;
 }
+
+.App{
+  text-align: center;
+  padding: 20px;
+}
+
+h1{
+  margin-bottom: 20px;
+}
+
+h2{
+  color: green;
+}
+button{
+  margin: 10px;
+}
